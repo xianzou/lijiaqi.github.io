@@ -1,8 +1,8 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
+title: lijiaqi
+description: My Blog
+author: lijiaqi
+logo: https://avatars0.githubusercontent.com/u/44689394?s=400&u=6b239c342c8d797aad7a904b18063f31b5378600&v=4
+github: https://github.com/xianzou
 about: Freelance developer
 
 baseurl: ""
